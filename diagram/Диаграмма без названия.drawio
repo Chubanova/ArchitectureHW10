@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-09-16T07:17:46.986Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36" etag="ku1JoABHPm9x-JZ6gCNt" version="21.7.5" type="github">
+<mxfile host="app.diagrams.net" modified="2023-09-16T07:20:27.899Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36" etag="QC_iqFkaCfXdxRjqTeGs" version="21.7.5" type="github">
   <diagram name="Страница — 1" id="jtLSriIxMIc0uCYnqBx7">
     <mxGraphModel dx="2406" dy="862" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" math="0" shadow="0">
       <root>
@@ -212,6 +212,16 @@
         </mxCell>
         <mxCell id="o6OlLVgvbYjxNVcpemtw-61" value="Посмотреть персональный рейтинг&lt;br&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="259.65" y="819.25" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="o6OlLVgvbYjxNVcpemtw-63" value="Передать иформацию о турнире и его подписчиках&amp;nbsp;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="681" y="490" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="o6OlLVgvbYjxNVcpemtw-64" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="681" y="365" as="sourcePoint" />
+            <mxPoint x="640" y="570" as="targetPoint" />
+            <Array as="points" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
